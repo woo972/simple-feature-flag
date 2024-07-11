@@ -1,0 +1,3 @@
+- [Redis Stream](https://redis.io/docs/latest/develop/data-types/streams/)
+- [Jedis](https://redis.io/docs/latest/develop/connect/clients/java/jedis/)
+- [Lettuce](https://redis.io/docs/latest/develop/connect/clients/java/lettuce/)
